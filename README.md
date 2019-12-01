@@ -1,2 +1,0 @@
-# firstVue
-Created with CodeSandbox
